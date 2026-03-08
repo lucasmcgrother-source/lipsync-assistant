@@ -6,7 +6,7 @@ import matplotlib.patches as mpatches
 df = pd.read_csv("LipSync Assistant — User Research Survey.csv")
 
 # Rename columns for easier use
-df.columns = ['timestamp', 'user_type', 'uses_captions', 'caption_helpfulness', 
+df.columns = ['user_type', 'uses_captions', 'caption_helpfulness', 
               'uses_lipreading', 'animated_mouth_useful', 'best_platform', 'other_thoughts']
 
 # Fix one response that said "Hearing impaired" to group cleanly
