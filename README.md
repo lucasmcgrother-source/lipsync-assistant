@@ -5,6 +5,8 @@
 ![Status](https://img.shields.io/badge/Status-Active-green)
 ![License](https://img.shields.io/badge/License-Open%20Source-lightgrey)
 
+🔗 **[Try the Live Demo](https://lipsync-assistant.streamlit.app/)**
+
 A lip articulation prototype for ESL learners, lipreading learners,
 and people with auditory processing challenges.
 
