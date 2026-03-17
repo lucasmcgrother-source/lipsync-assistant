@@ -1,0 +1,26 @@
+
+╔══════════════════════════════════════════════════════════╗
+   LIPSYNC ASSISTANT — USER RESEARCH SUMMARY
+   20 Respondents | Survey still open
+╚══════════════════════════════════════════════════════════╝
+
+WHO RESPONDED:
+  • Hard of Hearing: 4 respondents
+  • ESL Learner: 4 respondents
+  • Deaf: 4 respondents
+  • APD: 3 respondents
+  • Lipreading learner: 3 respondents
+  • ADHD with auditory difficulties: 1 respondents
+  • Mild hearing loss: 1 respondents
+
+KEY FINDINGS:
+  • 17/20 said animated mouth shapes would be useful or potentially useful
+  • 17/20 already use lipreading or visual cues naturally
+  • 12/20 always use closed captions
+  • Average caption helpfulness rating: 4.1 / 5.0
+  • Most requested platform: In-person learning
+
+CONCLUSION:
+  85% of respondents validated the core concept of LipSync Assistant.
+  The data suggests strong demand for visual pronunciation support,
+  particularly on In-person learning and in-person learning environments.
