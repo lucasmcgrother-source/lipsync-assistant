@@ -124,7 +124,7 @@ KEY FINDINGS:
 CONCLUSION:
   85% of respondents validated the core concept of LipSync Assistant.
   The data suggests strong demand for visual pronunciation support,
-  particularly on {top_platform} and in-person learning environments.
+  particularly on {top_platform} and other learning environments.
 """
 
 print(summary)
